@@ -206,6 +206,7 @@ This report is prepared for educational purposes as part of the Future Interns C
 **⚠️ Disclaimer:** Do not use the techniques described in this report on systems without explicit authorization. Unauthorized access to computer systems is illegal.
 
 ---
+📄 **[Download Vulnerability Assessment Report (PDF)](https://github.com/sharkjoe/FUTURE_CS_01/raw/main/REPORT/Vulnerability_Assessment_Report_WebGoat.pdf)**
 
 
 *Report Version: 1.0 | Date: July 20, 2026 | CIN: FIT/JUL26/CS9735*
